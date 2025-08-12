@@ -1,62 +1,14 @@
-# 22-Final-project
+# Final-project
  
  
-2nd Year 2nd Semester BSc. (Hons) Final Examination 2020
-Institute of Information Technology
-       Jahangirnagar University 
-         Savar, Dhaka-1342
-ICT 2200: Course Viva
-Group: 16
+2nd Year 2nd Semester B.Tech Final Examination 2020
+Roorkee Institute of Technology
+       Roorkee Uttrakhand 
+  
 
 
-## Student Management System Using Node JS
+## Student Management System Using Nodejs
 
-
-Submitted To:
-Md. Fazlul Karim Patwary
-Professor
- Institute of Information Technology 
-Jahangirnagar University
- 
-
-
-## DECLARATION
-
-This project report is submitted to the Institute of Information Technology, Jahangirnagar University, Savar, Dhaka in partial fulfillment of the requirements for having the B.Sc (Hons.) degree in ICT. This is also needed to certify that the project work is under the 1st Year 1nd Semester course of the IIT “ICT-2200: Course Viva”. So, we are here declaring that this project report has not been submitted elsewhere for the requirement of any kind of degree, diploma or publication.
-
-
-
-Md. Shakil Hossain (192340)               Mahabubur Rahman (192341)                     Nahidul Islam (192345)
-                                                              
-
-	                              
-
-
-
-
-
-
- 
-## ACCEPTANCE
-                                  
-This project report is submitted to the Institute of Information Technology, Jahangirnagar University, Savar, Dhaka in partial fulfilment of the requirements for having the B.Sc. (Hons.) degree in ICT.   
-
-
-
-
-
-
-Md. Fazlul Karim Patwary
-Professor
-Institute of Information Technology
-Jahangirnagar University
-Savar, Dhaka-1342, Bangladesh
-
-
-
-
-
- 
 ## ACKNOWLEDGEMENTS
 
 First of all we would like to thank the Almighty for giving us the opportunity to complete this work successfully. Our acknowledgement is meant to express our sincere gratitude to all those people who have been associated with this project and have helped us with it and by sharing their experiences and valuable opinions through which we received the required information crucial for our project. We are thankful to our parents for their relentless support. Most importantly we are grateful to our honourable supervisor who took time out to guide us and provide us with all the necessary materials and sufficient knowledge that was the major requirement.
